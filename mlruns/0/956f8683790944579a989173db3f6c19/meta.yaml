@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akash/Documents/GitHub/end-To-EndMLOPSDataScienceProjectImplementationWithDeployment/mlruns/0/956f8683790944579a989173db3f6c19/artifacts
+end_time: 1739816372990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 956f8683790944579a989173db3f6c19
+run_name: delicate-squid-338
+run_uuid: 956f8683790944579a989173db3f6c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739816371548
+status: 3
+tags: []
+user_id: akash

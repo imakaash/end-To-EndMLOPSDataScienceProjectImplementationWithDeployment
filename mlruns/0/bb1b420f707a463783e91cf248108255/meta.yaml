@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akash/Documents/GitHub/end-To-EndMLOPSDataScienceProjectImplementationWithDeployment/mlruns/0/bb1b420f707a463783e91cf248108255/artifacts
+end_time: 1739816061405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb1b420f707a463783e91cf248108255
+run_name: mercurial-snail-613
+run_uuid: bb1b420f707a463783e91cf248108255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739816059847
+status: 3
+tags: []
+user_id: akash

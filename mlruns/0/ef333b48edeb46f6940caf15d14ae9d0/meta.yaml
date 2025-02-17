@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akash/Documents/GitHub/end-To-EndMLOPSDataScienceProjectImplementationWithDeployment/mlruns/0/ef333b48edeb46f6940caf15d14ae9d0/artifacts
+end_time: 1739815347540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef333b48edeb46f6940caf15d14ae9d0
+run_name: sincere-loon-798
+run_uuid: ef333b48edeb46f6940caf15d14ae9d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739815346351
+status: 3
+tags: []
+user_id: akash

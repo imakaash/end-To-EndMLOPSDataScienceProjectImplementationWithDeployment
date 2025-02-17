@@ -1,0 +1,15 @@
+{
+  "inputs": {
+    "fixed acidity": 7.2,
+    "volatile acidity": 0.63,
+    "citric acid": 0.0,
+    "residual sugar": 1.9,
+    "chlorides": 0.0969999999999999,
+    "free sulfur dioxide": 14.0,
+    "total sulfur dioxide": 38.0,
+    "density": 0.99675,
+    "pH": 3.37,
+    "sulphates": 0.58,
+    "alcohol": 9.0
+  }
+}

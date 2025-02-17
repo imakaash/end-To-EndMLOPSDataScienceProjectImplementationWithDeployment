@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akash/Documents/GitHub/end-To-EndMLOPSDataScienceProjectImplementationWithDeployment/mlruns/0/b431f6462a22401c8082a07b8ac299db/artifacts
+end_time: 1739814235105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b431f6462a22401c8082a07b8ac299db
+run_name: gentle-foal-414
+run_uuid: b431f6462a22401c8082a07b8ac299db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739814233469
+status: 4
+tags: []
+user_id: akash
